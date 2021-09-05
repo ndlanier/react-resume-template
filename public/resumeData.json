@@ -14,7 +14,7 @@
       "state": "Kansas",
       "zip": "66062"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "/downloads/NathanielLanier_Resume.pdf",
     "social": [
       {
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some of my relevant skills.",
     "education": [
       {
         "school": "Fort Hays State University",
@@ -118,10 +118,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
       }
     ]
   },

@@ -2,9 +2,9 @@
   "main": {
     "name": "Nathaniel Lanier",
     "occupation": "System Engineer",
-    "description": "IT Professional, highly driven to gain as much relevant experience as possible. Strong belief in teamwork built from several projects and extracurricular organizations. Constantly looking for ways to innovate and automate day-to-day tasks. Has always been fascinated with technology, having built years of knowledge on personal time. Consistently stays up-to-date on the latest technology and tech trends.",
+    "description": " Currently employed by Cerner where I build, configure, and manage several front end technology stacks for a commercial client",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I am an IT Professional, highly driven to gain as much relevant experience as possible. Strong belief in teamwork built from several projects and extracurricular organizations. Constantly looking for ways to innovate and automate day-to-day tasks. Has always been fascinated with technology, having built years of knowledge on personal time. Consistently stays up-to-date on the latest technology and tech trends.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ndlanier@icloud.com",
     "phone": "(316)217-2500",
@@ -15,7 +15,7 @@
       "zip": "66062"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "/downloads/NathanielLanier_Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -44,25 +44,40 @@
         "company": "Cerner Corporation",
         "title": "System Engineer",
         "years": "April 2018 - Present",
-        "description": ""
+        "description": [
+          {"item": "Built, configured, and managed the client’s systems that are hosted within Cerner’s data center"},
+          {"item": "Mentored multiple System Engineers and served as a Subject Matter Expert (SME) for a handful of technologies"},
+          {"item": "Actively pursued innovation and simplified workflows and configurations to provide a better client experience"},
+          {"item": "Represented my team on incident, review, and project calls where the client could be present"},
+          {"item": "Coordinated incident calls without superiors to find quick resolution or root cause"}
+        ]
       },
       {
         "company": "Mid-Kansas Coop",
         "title": "User/Computer Support Specialist",
         "years": "December 2016 - April 2018",
-        "description": ""
+        "description": [
+          {"item": "Assisted coworkers with technology related issues remote or on-site"},
+          {"item": "Built PCs and configured them per the user’s job requirements"},
+          {"item": "Monitored patterns of issues and reported them to superior with extensive knowledge of the situation"},
+          {"item": "Researched and executed special technology implementation projects"}
+        ]
       },
       {
         "company": "",
         "title": "IT Intern",
         "years": "May 2015 - August 2016",
-        "description": ""
+        "description": []
       },
       {
         "company": "Eagle Technical Solutions",
         "title": "Computer/Network Technician",
         "years": "September 2016 - December 2016",
-        "description": ""
+        "description": [
+          {"item": "Supplied local businesses with fast and efficient technical support and installation"},
+          {"item": "Assisted teammates in network configuration"},
+          {"item": "Aided customers via the public support line while utilizing remote assistance software"}
+        ]
       }
     ],
     "skills": [
@@ -89,6 +104,10 @@
       {
         "name": "Citrix",
         "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "25%"
       },
       {
         "name": "SQL Querying",
